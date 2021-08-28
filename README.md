@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @logstore
+- 🔭 I’m currently working at @ingaia
 - 🌱 I’m currently learning Android Native Development
 - 💬 Ask me about code, music, cars, games or racing games!
 - 😄 Pronouns: He/Him
