@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @ingaia
-- 🌱 I’m currently learning Flutter and iOS native development
+- 🐱‍👤 iOS developer.
+- 🔭 I’m currently working at @NTTDATAServices.
+- 🌱 I’m currently learning SwiftUI.
 - 💬 Ask me about code, music, cars, games or racing!
 - 📫 How to reach me: outrowender@gmail.com
