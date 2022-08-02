@@ -8,7 +8,4 @@
 ### Main languages
 - Swift
 - Objective-C
-- Javascript
-
-### Social
-Codesign profile: https://app.codesignal.com/profile/outrowender
+- Javascript/Typescript
