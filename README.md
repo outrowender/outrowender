@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Currently working at @NTTDATA.
-- 🌱 Learning C++.
+- 🌱 Learning C & C++.
 - 💬 Ask me about code, music, cars, games or racing.
 - 📫 How to reach me: outrowender@gmail.com
 
