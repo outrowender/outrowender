@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working at @NTTDATA.
-- 🌱 Learning Data structure & ML.
+- 🔭 Currently working at @Fiserv.
 - 💬 Ask me about code, music, cars, games or racing.
 - 📫 How to reach me: outrowender@gmail.com
 
@@ -9,3 +8,5 @@
 - Swift
 - Objective-C
 - Javascript/Typescript
+- Dart
+- Kotlin
